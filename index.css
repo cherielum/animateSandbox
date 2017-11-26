@@ -1,0 +1,20 @@
+#section-1{
+    animation-delay:1s; 
+    animation-duration: 1s; /*takes 1 secs to come in*/
+    animation-iteration-count: 1;  /*infinite runs forever */
+}
+
+#section-2 {
+    animation-delay:2s;
+}
+
+li {
+    display: inline;
+    margin: 20px; 
+   
+}    
+
+.nav {
+    float: right; 
+   
+}
